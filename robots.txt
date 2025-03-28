@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arimulligan.github.io/publii_website/sitemap.xml
