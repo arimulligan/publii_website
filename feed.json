@@ -9,5 +9,30 @@
         "name": "Ari"
     },
     "items": [
+        {
+            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117.html",
+            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117.html",
+            "title": "Amsiggel&#x27;s Journey - The Birth (Ch 01/17)",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-04T13:30:43+13:00",
+            "date_modified": "2025-04-04T13:30:43+13:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/amsiggel-choose-an-episode-to-watch.html",
+            "url": "https://arimulligan.github.io/publii_website/amsiggel-choose-an-episode-to-watch.html",
+            "title": "Amsiggel - choose an episode to watch.",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/5/amsig_thumb_choice_c.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-04T12:57:00+13:00",
+            "date_modified": "2025-04-04T13:14:31+13:00"
+        }
     ]
 }
