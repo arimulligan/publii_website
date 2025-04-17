@@ -542,8 +542,6 @@ const searchInput = document.querySelector('[type="search"]');
 if (searchButton) {
     searchButton.addEventListener('click', (e) => {
         e.stopPropagation();
-        console.log("ELLO")
-        window.location.href = '.../mercury/search.hbs'
         searchOverlay.classList.toggle('expanded');
 
         if (searchInput) {
