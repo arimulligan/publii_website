@@ -10,11 +10,12 @@
     },
     "items": [
         {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-4.html",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-4.html",
+            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-4/",
+            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-4/",
             "title": "Amsiggel&#x27;s Journey - The Hermit (4/17)",
             "summary": "Source: amsiggel.com",
             "content_html": "<iframe loading=\"lazy\" src=\"../input/root-files/texts/amsig-04-cha.html\" title=\"amsig-04-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/10/amsig-04-cha.jpg",
             "author": {
                 "name": "Ari"
             },
@@ -23,14 +24,15 @@
                    "Series"
             ],
             "date_published": "2025-04-04T17:12:06+13:00",
-            "date_modified": "2025-04-04T17:13:15+13:00"
+            "date_modified": "2025-04-04T20:07:48+13:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-3.html",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-3.html",
+            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-3/",
+            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-3/",
             "title": "Amsiggel&#x27;s Journey - The Woodcutter (Ch 03/17)",
             "summary": "Source: amsiggel.com",
             "content_html": "<iframe loading=\"lazy\" src=\"../input/root-files/texts/amsig-03-cha.html\" title=\"amsig-03-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/9/amsig-03-cha.jpg",
             "author": {
                 "name": "Ari"
             },
@@ -39,14 +41,15 @@
                    "Series"
             ],
             "date_published": "2025-04-04T17:10:54+13:00",
-            "date_modified": "2025-04-04T17:11:48+13:00"
+            "date_modified": "2025-04-04T20:07:25+13:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-2.html",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-2.html",
+            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-2/",
+            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-2/",
             "title": "Amsiggel&#x27;s Journey - The Escape (Ch 02/17)",
             "summary": "Source: amsiggel.com",
             "content_html": "<iframe loading=\"lazy\" src=\"../input/root-files/texts/amsig-02-cha.html\" title=\"amsig-02-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/8/amsig-02-cha.jpg",
             "author": {
                 "name": "Ari"
             },
@@ -55,14 +58,15 @@
                    "Series"
             ],
             "date_published": "2025-04-04T17:09:14+13:00",
-            "date_modified": "2025-04-04T17:10:46+13:00"
+            "date_modified": "2025-04-04T20:07:06+13:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117.html",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117.html",
+            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117/",
+            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117/",
             "title": "Amsiggel&#x27;s Journey - The Birth (Ch 01/17)",
             "summary": "Source: amsiggel.com",
             "content_html": "<iframe loading=\"lazy\" src=\"../input/root-files/texts/amsig-01-cha.html\" title=\"amsig-01-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/6/amsig-01-cha.jpg",
             "author": {
                 "name": "Ari"
             },
@@ -71,7 +75,7 @@
                    "Series"
             ],
             "date_published": "2025-04-04T13:30:43+13:00",
-            "date_modified": "2025-04-04T17:07:44+13:00"
+            "date_modified": "2025-04-04T20:06:49+13:00"
         }
     ]
 }
