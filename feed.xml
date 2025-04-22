@@ -3,7 +3,7 @@
     <title>injilchaoui</title>
     <link href="https://arimulligan.github.io/publii_website/feed.xml" rel="self" />
     <link href="https://arimulligan.github.io/publii_website" />
-    <updated>2025-04-04T20:07:48+13:00</updated>
+    <updated>2025-04-22T21:00:51+12:00</updated>
     <author>
         <name>Ari</name>
     </author>
@@ -30,7 +30,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://arimulligan.github.io/publii_website/media/posts/10/amsig-04-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../input/root-files/texts/amsig-04-cha.html" title="amsig-04-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+                <iframe loading="lazy" src="../texts/amsig-04-cha.html" title="amsig-04-cha" data-responsive="false" style="border:none;"  height="546" width="670"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
@@ -57,7 +57,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://arimulligan.github.io/publii_website/media/posts/9/amsig-03-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../input/root-files/texts/amsig-03-cha.html" title="amsig-03-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+                <iframe loading="lazy" src="../texts/amsig-03-cha.html" title="amsig-03-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
@@ -84,7 +84,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://arimulligan.github.io/publii_website/media/posts/8/amsig-02-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../input/root-files/texts/amsig-02-cha.html" title="amsig-02-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+                <iframe loading="lazy" src="../texts/amsig-02-cha.html" title="amsig-02-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
@@ -111,7 +111,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://arimulligan.github.io/publii_website/media/posts/6/amsig-01-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../input/root-files/texts/amsig-01-cha.html" title="amsig-01-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+                <iframe loading="lazy" src="../texts/amsig-01-cha.html" title="amsig-01-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
