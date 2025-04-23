@@ -48,7 +48,7 @@
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-2/",
             "title": "Amsiggel&#x27;s Journey - The Escape (Ch 02/17)",
             "summary": "Source: amsiggel.com",
-            "content_html": "<iframe loading=\"lazy\" src=\"../texts/amsig-02-cha.html\" title=\"amsig-02-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CNk1tcxGDNk?si=gg5ZZXTiZiTWEp81\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../texts/amsig-02-cha.html\" title=\"amsig-02-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/8/amsig-02-cha.jpg",
             "author": {
                 "name": "Ari"
@@ -58,14 +58,14 @@
                    "Series"
             ],
             "date_published": "2025-04-04T17:09:14+13:00",
-            "date_modified": "2025-04-22T21:00:43+12:00"
+            "date_modified": "2025-04-23T13:13:08+12:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117/",
             "title": "Amsiggel&#x27;s Journey - The Birth (Ch 01/17)",
             "summary": "Source: amsiggel.com",
-            "content_html": "<iframe loading=\"lazy\" src=\"../texts/amsig-01-cha.html\" title=\"amsig-01-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CNk1tcxGDNk?si=gg5ZZXTiZiTWEp81\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../texts/amsig-01-cha.html\" title=\"amsig-01-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"546\" width=\"970\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/6/amsig-01-cha.jpg",
             "author": {
                 "name": "Ari"
@@ -75,7 +75,7 @@
                    "Series"
             ],
             "date_published": "2025-04-04T13:30:43+13:00",
-            "date_modified": "2025-04-22T21:00:51+12:00"
+            "date_modified": "2025-04-23T12:14:32+12:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>injilchaoui</title>
     <link href="https://arimulligan.github.io/publii_website/feed.xml" rel="self" />
     <link href="https://arimulligan.github.io/publii_website" />
-    <updated>2025-04-22T21:00:51+12:00</updated>
+    <updated>2025-04-23T13:13:08+12:00</updated>
     <author>
         <name>Ari</name>
     </author>
@@ -84,7 +84,9 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://arimulligan.github.io/publii_website/media/posts/8/amsig-02-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../texts/amsig-02-cha.html" title="amsig-02-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CNk1tcxGDNk?si=gg5ZZXTiZiTWEp81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-02-cha.html" title="amsig-02-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
@@ -111,7 +113,9 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://arimulligan.github.io/publii_website/media/posts/6/amsig-01-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../texts/amsig-01-cha.html" title="amsig-01-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CNk1tcxGDNk?si=gg5ZZXTiZiTWEp81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-01-cha.html" title="amsig-01-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
