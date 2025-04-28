@@ -3,119 +3,267 @@
     <title>injilchaoui</title>
     <link href="https://arimulligan.github.io/publii_website/feed.xml" rel="self" />
     <link href="https://arimulligan.github.io/publii_website" />
-    <updated>2025-04-23T13:13:08+12:00</updated>
+    <updated>2025-04-23T14:12:03+12:00</updated>
     <author>
         <name>Ari</name>
     </author>
     <id>https://arimulligan.github.io/publii_website</id>
 
     <entry>
-        <title>Amsiggel&#x27;s Journey - The Hermit (4/17)</title>
+        <title>Amsiggel&#x27;s Journey - The Way of Peace (17/17)</title>
         <author>
             <name>Ari</name>
         </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-4/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-4/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/10/amsig-04-cha.jpg" medium="image" />
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/</id>
             <category term="The Amsiggel Story"/>
             <category term="Series"/>
 
-        <updated>2025-04-04T17:12:06+13:00</updated>
+        <updated>2025-04-23T14:09:06+12:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://arimulligan.github.io/publii_website/media/posts/10/amsig-04-cha.jpg" alt="" />
                     Source: amsiggel.com
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://arimulligan.github.io/publii_website/media/posts/10/amsig-04-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../texts/amsig-04-cha.html" title="amsig-04-cha" data-responsive="false" style="border:none;"  height="546" width="670"></iframe>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/zLmDl2NqDmE?si=nDaXi-io0iLmntnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-17-cha.html" title="amsig-17-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Amsiggel&#x27;s Journey - The Woodcutter (Ch 03/17)</title>
+        <title>Amsiggel&#x27;s Journey - In the Village (16/17)</title>
         <author>
             <name>Ari</name>
         </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-3/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-3/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/9/amsig-03-cha.jpg" medium="image" />
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/</id>
             <category term="The Amsiggel Story"/>
             <category term="Series"/>
 
-        <updated>2025-04-04T17:10:54+13:00</updated>
+        <updated>2025-04-23T14:07:11+12:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://arimulligan.github.io/publii_website/media/posts/9/amsig-03-cha.jpg" alt="" />
                     Source: amsiggel.com
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://arimulligan.github.io/publii_website/media/posts/9/amsig-03-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <iframe loading="lazy" src="../texts/amsig-03-cha.html" title="amsig-03-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/2yCe0FKu0GA?si=bTxIEjdMNbdHhRMT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-16-cha.html" title="amsig-16-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Amsiggel&#x27;s Journey - The Escape (Ch 02/17)</title>
+        <title>Amsiggel&#x27;s Journey - At the Woodcutter&#x27;s (15/17)</title>
         <author>
             <name>Ari</name>
         </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-2/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117-2/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/8/amsig-02-cha.jpg" medium="image" />
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/</id>
             <category term="The Amsiggel Story"/>
             <category term="Series"/>
 
-        <updated>2025-04-04T17:09:14+13:00</updated>
+        <updated>2025-04-23T14:05:57+12:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://arimulligan.github.io/publii_website/media/posts/8/amsig-02-cha.jpg" alt="" />
                     Source: amsiggel.com
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://arimulligan.github.io/publii_website/media/posts/8/amsig-02-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CNk1tcxGDNk?si=gg5ZZXTiZiTWEp81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/AcH6C5LSWY8?si=iL3LTmu1RnjBH2y-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<iframe loading="lazy" src="../texts/amsig-02-cha.html" title="amsig-02-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+<iframe loading="lazy" src="../texts/amsig-15-cha.html" title="amsig-15-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Amsiggel&#x27;s Journey - The Birth (Ch 01/17)</title>
+        <title>Amsiggel&#x27;s Journey - At the Hermit&#x27;s (14/17)</title>
         <author>
             <name>Ari</name>
         </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-birth-ch-0117/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/6/amsig-01-cha.jpg" medium="image" />
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/</id>
             <category term="The Amsiggel Story"/>
             <category term="Series"/>
 
-        <updated>2025-04-04T13:30:43+13:00</updated>
+        <updated>2025-04-23T14:04:20+12:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://arimulligan.github.io/publii_website/media/posts/6/amsig-01-cha.jpg" alt="" />
                     Source: amsiggel.com
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://arimulligan.github.io/publii_website/media/posts/6/amsig-01-cha.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CNk1tcxGDNk?si=gg5ZZXTiZiTWEp81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/uNgU7jyuOas?si=1RlqjGGw74BLHIJG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<iframe loading="lazy" src="../texts/amsig-01-cha.html" title="amsig-01-cha" data-responsive="false" style="border:none;"  height="546" width="970"></iframe>
+<iframe loading="lazy" src="../texts/amsig-14-cha.html" title="amsig-14-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
+
+<p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amsiggel&#x27;s Journey - At the Old Woman&#x27;s (13/17)</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/</id>
+            <category term="The Amsiggel Story"/>
+            <category term="Series"/>
+
+        <updated>2025-04-23T14:01:59+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Source: amsiggel.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/tFXZgApStdU?si=g_S1KRK2rX0SrsQp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-13-cha.html" title="amsig-13-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
+
+<p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amsiggel&#x27;s Journey - At the Nomad&#x27;s (12/17)</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/</id>
+            <category term="The Amsiggel Story"/>
+            <category term="Series"/>
+
+        <updated>2025-04-23T13:59:50+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Source: amsiggel.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/eq-dCWsie4I?si=hYes3EXQgLpMlFc5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-12-cha.html" title="amsig-12-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
+
+<p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amsiggel&#x27;s Journey - At the Thief&#x27;s (11/17)</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/</id>
+            <category term="The Amsiggel Story"/>
+            <category term="Series"/>
+
+        <updated>2025-04-23T13:57:28+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Source: amsiggel.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ov2Z3rd5ObQ?si=otR0fKipv8EzCBLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-11-cha.html" title="amsig-11-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
+
+<p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amsiggel&#x27;s Journey - At the Blacksmith&#x27;s (10/17)</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/</id>
+            <category term="The Amsiggel Story"/>
+            <category term="Series"/>
+
+        <updated>2025-04-23T13:54:30+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Source: amsiggel.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_hYSj89fk4U?si=_h7iTpv7SKhO63Y5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-10-cha.html" title="amsig-10-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
+
+<p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amsiggel&#x27;s Journey - The Village Called Peace (09/17)</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/</id>
+            <category term="The Amsiggel Story"/>
+            <category term="Series"/>
+
+        <updated>2025-04-23T13:51:21+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Source: amsiggel.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/bV2GRin7Oww?si=p9rspHZcz1TccH4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-09-cha.html" title="amsig-09-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
+
+<p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amsiggel&#x27;s Journey - The Blacksmith (08/17)</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-blacksmith-0817/"/>
+        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-blacksmith-0817/</id>
+            <category term="The Amsiggel Story"/>
+            <category term="Series"/>
+
+        <updated>2025-04-23T13:48:29+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Source: amsiggel.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/iOss7UNcJDI?si=I6vjz3LP7uxEmqFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<iframe loading="lazy" src="../texts/amsig-08-cha.html" title="amsig-08-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
 
 <p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
             ]]>
