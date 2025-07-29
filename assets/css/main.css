@@ -2299,10 +2299,10 @@ textarea {
 .c-card__link.js-open-video {
   all: unset; /* removes all native button styling */
   display: inline; /* optional: to match <a> */
-  background: none;
-  border: none;
-  padding: 0;
-  margin: 0;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
   color: inherit;
   font: inherit;
   cursor: pointer;
