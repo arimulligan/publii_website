@@ -2297,6 +2297,16 @@ textarea {
 }
 
 .c-card__link.js-open-video {
+  all: unset; /* removes all native button styling */
+  display: inline; /* optional: to match <a> */
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  text-align: left; /* or whatever is needed */
   color: var(--link-color);
   text-decoration: none;
   -webkit-transition: all 0.12s linear 0s;
