@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
          const videoTitle = button.getAttribute('data-title');
          title.textContent = videoTitle;
          iframe.src = videoUrl.replace("watch?v=", "embed/") + "?autoplay=1";
-         modal.hidden = false;
+         modal.style.display = "flex";
       });
    });
 
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
    closeButtons.forEach(el => {
       el.addEventListener('click', function () {
          iframe.src = "";
-         modal.hidden = true;
+         modal.style.display = "none";
       });
    });
 });
