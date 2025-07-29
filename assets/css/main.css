@@ -2295,3 +2295,9 @@ textarea {
    position: absolute;
    top: 0; left: 0; right: 0; bottom: 0;
 }
+
+.c-card__link .js-open-video {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+}
