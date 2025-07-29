@@ -2296,8 +2296,19 @@ textarea {
    top: 0; left: 0; right: 0; bottom: 0;
 }
 
-.c-card__link .js-open-video {
-  background: none!important;
-  border: none;
-  padding: 0!important;
+.c-card__link.js-open-video {
+  color: var(--link-color);
+  text-decoration: none;
+  -webkit-transition: all 0.12s linear 0s;
+  transition: all 0.12s linear 0s;
+}
+
+.c-card__link.js-open-video:hover {
+  color: var(--link-color-hover);
+}
+.c-card__link.js-open-video:active {
+  color: var(--link-color-hover);
+}
+.c-card__link.js-open-video:focus {
+  color: var(--link-color-hover);
 }
