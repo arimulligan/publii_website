@@ -2258,3 +2258,40 @@ textarea {
 .pswp--light .pswp__button--arrow--right:before {
   background-image: url(../svg/gallery-icons-dark.svg);
 }
+
+/* CUSTOM MADE */
+.video-modal {
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background: rgba(0,0,0,0.7);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   z-index: 9999;
+}
+
+.video-modal__content {
+   background: white;
+   padding: 1em;
+   max-width: 90%;
+   width: 640px;
+   position: relative;
+}
+
+.video-modal__close {
+   position: absolute;
+   top: 10px;
+   right: 10px;
+   background: none;
+   border: none;
+   font-size: 2em;
+   cursor: pointer;
+}
+
+.video-modal__overlay {
+   position: absolute;
+   top: 0; left: 0; right: 0; bottom: 0;
+}
