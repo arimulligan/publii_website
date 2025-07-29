@@ -3,7 +3,7 @@
     <title>injilchaoui</title>
     <link href="https://arimulligan.github.io/publii_website/feed.xml" rel="self" />
     <link href="https://arimulligan.github.io/publii_website" />
-    <updated>2025-07-28T17:11:45+02:00</updated>
+    <updated>2025-07-29T16:40:15+02:00</updated>
     <author>
         <name>Ari</name>
     </author>
@@ -21,22 +21,8 @@
             <category term="Series"/>
 
         <updated>2025-04-23T04:09:06+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://arimulligan.github.io/publii_website/media/posts/23/amsig-17-cha_g.jpg" alt="" />
-                    Source: amsiggel.com
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://arimulligan.github.io/publii_website/media/posts/23/amsig-17-cha_g.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/zLmDl2NqDmE?si=nDaXi-io0iLmntnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
-<iframe loading="lazy" src="../media/files/texts/amsig-17-cha.html" title="amsig-17-cha" data-responsive="false" style="border:none;"  height="315" width="560"></iframe>
-
-<p><a href="http://www.amsiggel.com/">Source: amsiggel.com</a></p>
-            ]]>
-        </content>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
         <title>Amsiggel&#x27;s Journey - In the Village (16/17)</title>
