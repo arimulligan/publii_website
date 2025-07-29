@@ -2295,30 +2295,3 @@ textarea {
    position: absolute;
    top: 0; left: 0; right: 0; bottom: 0;
 }
-
-.c-card__link.js-open-video {
-  all: unset; /* removes all native button styling */
-  display: inline; /* optional: to match <a> */
-  background: none !important;
-  border: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  color: inherit;
-  font: inherit;
-  cursor: pointer;
-  text-align: left; /* or whatever is needed */
-  color: var(--link-color);
-  text-decoration: none;
-  -webkit-transition: all 0.12s linear 0s;
-  transition: all 0.12s linear 0s;
-}
-
-.c-card__link.js-open-video:hover {
-  color: var(--link-color-hover);
-}
-.c-card__link.js-open-video:active {
-  color: var(--link-color-hover);
-}
-.c-card__link.js-open-video:focus {
-  color: var(--link-color-hover);
-}
