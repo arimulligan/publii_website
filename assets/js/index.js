@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
       button.addEventListener('click', function (e) {
          e.preventDefault();
          const videoUrl = button.getAttribute('data-video');
+         console.log(videoUrl)
          if (!videoUrl || videoUrl == "") {
             title.textContent = "Missing video link. Try again, or contact us if issue persists."
             return;
