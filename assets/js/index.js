@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
    closeButtons.forEach(el => {
       el.addEventListener('click', function () {
          videoFrame.src = "";
+         transcriptFrame.src = "";
          modal.style.display = "none";
       });
    });
