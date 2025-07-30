@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://arimulligan.github.io/publii_website/the-good-news/",
+            "url": "https://arimulligan.github.io/publii_website/the-good-news/",
+            "title": "The Good News",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/25/thegoodnews_gr2_g.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Good News"
+            ],
+            "date_published": "2025-04-29T00:38:10+02:00",
+            "date_modified": "2025-07-30T18:59:41+02:00"
+        },
+        {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/",
             "title": "Amsiggel&#x27;s Journey - The Way of Peace (17/17)",
@@ -22,14 +36,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T04:09:06+02:00",
-            "date_modified": "2025-07-30T18:16:27+02:00"
+            "date_modified": "2025-07-30T18:47:13+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/",
             "title": "Amsiggel&#x27;s Journey - In the Village (16/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2yCe0FKu0GA?si=bTxIEjdMNbdHhRMT\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-16-cha.html\" title=\"amsig-16-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/22/amsig-16-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -39,14 +51,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T04:07:11+02:00",
-            "date_modified": "2025-05-02T00:24:25+02:00"
+            "date_modified": "2025-07-30T18:47:43+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/",
             "title": "Amsiggel&#x27;s Journey - At the Woodcutter&#x27;s (15/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/AcH6C5LSWY8?si=iL3LTmu1RnjBH2y-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-15-cha.html\" title=\"amsig-15-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/21/amsig-15-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -56,14 +66,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T04:05:57+02:00",
-            "date_modified": "2025-05-02T00:24:21+02:00"
+            "date_modified": "2025-07-30T18:48:11+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/",
             "title": "Amsiggel&#x27;s Journey - At the Hermit&#x27;s (14/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/uNgU7jyuOas?si=1RlqjGGw74BLHIJG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-14-cha.html\" title=\"amsig-14-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/20/amsig-14-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -73,14 +81,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T04:04:20+02:00",
-            "date_modified": "2025-05-02T00:24:16+02:00"
+            "date_modified": "2025-07-30T18:48:45+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/",
             "title": "Amsiggel&#x27;s Journey - At the Old Woman&#x27;s (13/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tFXZgApStdU?si=g_S1KRK2rX0SrsQp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-13-cha.html\" title=\"amsig-13-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/19/amsig-13-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -90,14 +96,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T04:01:59+02:00",
-            "date_modified": "2025-05-02T00:24:11+02:00"
+            "date_modified": "2025-07-30T18:49:57+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/",
             "title": "Amsiggel&#x27;s Journey - At the Nomad&#x27;s (12/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/eq-dCWsie4I?si=hYes3EXQgLpMlFc5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-12-cha.html\" title=\"amsig-12-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/18/amsig-12-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -107,14 +111,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T03:59:50+02:00",
-            "date_modified": "2025-05-02T00:24:05+02:00"
+            "date_modified": "2025-07-30T18:49:55+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/",
             "title": "Amsiggel&#x27;s Journey - At the Thief&#x27;s (11/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ov2Z3rd5ObQ?si=otR0fKipv8EzCBLs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-11-cha.html\" title=\"amsig-11-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/17/amsig-11-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -124,14 +126,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T03:57:28+02:00",
-            "date_modified": "2025-05-02T00:24:00+02:00"
+            "date_modified": "2025-07-30T18:50:35+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/",
             "title": "Amsiggel&#x27;s Journey - At the Blacksmith&#x27;s (10/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/_hYSj89fk4U?si=_h7iTpv7SKhO63Y5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-10-cha.html\" title=\"amsig-10-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/16/amsig-10-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -141,14 +141,12 @@
                    "Series"
             ],
             "date_published": "2025-04-23T03:54:30+02:00",
-            "date_modified": "2025-05-02T00:23:55+02:00"
+            "date_modified": "2025-07-30T18:50:59+02:00"
         },
         {
             "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/",
             "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/",
             "title": "Amsiggel&#x27;s Journey - The Village Called Peace (09/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/bV2GRin7Oww?si=p9rspHZcz1TccH4m\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-09-cha.html\" title=\"amsig-09-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
             "image": "https://arimulligan.github.io/publii_website/media/posts/15/amsig-09-cha_g.jpg",
             "author": {
                 "name": "Ari"
@@ -158,24 +156,7 @@
                    "Series"
             ],
             "date_published": "2025-04-23T03:51:21+02:00",
-            "date_modified": "2025-05-02T00:23:49+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-blacksmith-0817/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-blacksmith-0817/",
-            "title": "Amsiggel&#x27;s Journey - The Blacksmith (08/17)",
-            "summary": "Source: amsiggel.com",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/iOss7UNcJDI?si=I6vjz3LP7uxEmqFq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<iframe loading=\"lazy\" src=\"../media/files/texts/amsig-08-cha.html\" title=\"amsig-08-cha\" data-responsive=\"false\" style=\"border:none;\"  height=\"315\" width=\"560\"></iframe>\n\n<p><a href=\"http://www.amsiggel.com/\">Source: amsiggel.com</a></p>",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/14/amsig-08-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T03:48:29+02:00",
-            "date_modified": "2025-05-02T00:23:43+02:00"
+            "date_modified": "2025-07-30T18:51:29+02:00"
         }
     ]
 }
