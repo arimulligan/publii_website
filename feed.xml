@@ -3,12 +3,26 @@
     <title>injilchaoui</title>
     <link href="https://arimulligan.github.io/publii_website/feed.xml" rel="self" />
     <link href="https://arimulligan.github.io/publii_website" />
-    <updated>2025-07-30T18:59:41+02:00</updated>
+    <updated>2025-07-30T19:08:31+02:00</updated>
     <author>
         <name>Ari</name>
     </author>
     <id>https://arimulligan.github.io/publii_website</id>
 
+    <entry>
+        <title>The Story of the Prophets</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-story-of-the-prophets/"/>
+        <id>https://arimulligan.github.io/publii_website/the-story-of-the-prophets/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/28/the_prophets_story.jpg" medium="image" />
+            <category term="The Story of the Prophets"/>
+
+        <updated>2025-07-30T19:08:31+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Good News</title>
         <author>
@@ -140,21 +154,6 @@
             <category term="Series"/>
 
         <updated>2025-04-23T03:54:30+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - The Village Called Peace (09/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/15/amsig-09-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T03:51:21+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>

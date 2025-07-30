@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://arimulligan.github.io/publii_website/the-story-of-the-prophets/",
+            "url": "https://arimulligan.github.io/publii_website/the-story-of-the-prophets/",
+            "title": "The Story of the Prophets",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/28/the_prophets_story.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Story of the Prophets"
+            ],
+            "date_published": "2025-07-30T19:08:31+02:00",
+            "date_modified": "2025-07-30T19:08:31+02:00"
+        },
+        {
             "id": "https://arimulligan.github.io/publii_website/the-good-news/",
             "url": "https://arimulligan.github.io/publii_website/the-good-news/",
             "title": "The Good News",
@@ -142,21 +156,6 @@
             ],
             "date_published": "2025-04-23T03:54:30+02:00",
             "date_modified": "2025-07-30T18:50:59+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-village-called-peace-0917/",
-            "title": "Amsiggel&#x27;s Journey - The Village Called Peace (09/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/15/amsig-09-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T03:51:21+02:00",
-            "date_modified": "2025-07-30T18:51:29+02:00"
         }
     ]
 }
