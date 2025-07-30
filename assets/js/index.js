@@ -11,11 +11,11 @@ document.addEventListener('DOMContentLoaded', function () {
          console.log(videoUrl + "video url")
          if (!videoUrl || videoUrl == "") {
             title.textContent = "Missing video link. Try again, or contact us if issue persists."
-            return;
+         } else {
+            const videoTitle = button.getAttribute('data-title');
+            title.textContent = videoTitle;
+            iframe.src = videoUrl.replace("watch?v=", "embed/") + "?autoplay=1";
          }
-         const videoTitle = button.getAttribute('data-title');
-         title.textContent = videoTitle;
-         iframe.src = videoUrl.replace("watch?v=", "embed/") + "?autoplay=1";
          modal.style.display = "flex";
       });
    });
