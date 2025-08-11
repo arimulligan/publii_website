@@ -3,12 +3,131 @@
     <title>injilchaoui</title>
     <link href="https://arimulligan.github.io/publii_website/feed.xml" rel="self" />
     <link href="https://arimulligan.github.io/publii_website" />
-    <updated>2025-07-30T19:08:31+02:00</updated>
+    <updated>2025-08-11T16:21:30+02:00</updated>
     <author>
         <name>Ari</name>
     </author>
     <id>https://arimulligan.github.io/publii_website</id>
 
+    <entry>
+        <title>The Magdalena Film - Title and Introduction (01)</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01/"/>
+        <id>https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/36/magdalena_1_g.jpg" medium="image" />
+            <category term="The Magdalena Film"/>
+
+        <updated>2025-08-11T16:18:33+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Jesus Film Part 7/7</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-jesus-film-7/"/>
+        <id>https://arimulligan.github.io/publii_website/the-jesus-film-7/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/35/jfilm-07-cha.jpg" medium="image" />
+            <category term="The Jesus Film"/>
+            <category term="Series"/>
+
+        <updated>2025-08-11T16:03:54+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Jesus Film Part 6/7</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-jesus-film-6/"/>
+        <id>https://arimulligan.github.io/publii_website/the-jesus-film-6/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/34/jfilm-06-cha.jpg" medium="image" />
+            <category term="The Jesus Film"/>
+            <category term="Series"/>
+
+        <updated>2025-08-11T16:03:52+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Jesus Film Part 5/7</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-jesus-film-5/"/>
+        <id>https://arimulligan.github.io/publii_website/the-jesus-film-5/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/33/jfilm-05-cha.jpg" medium="image" />
+            <category term="The Jesus Film"/>
+            <category term="Series"/>
+
+        <updated>2025-08-11T16:03:46+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Jesus Film Part 4/7</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-jesus-film-4/"/>
+        <id>https://arimulligan.github.io/publii_website/the-jesus-film-4/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/32/jfilm-04-cha.jpg" medium="image" />
+            <category term="The Jesus Film"/>
+            <category term="Series"/>
+
+        <updated>2025-08-11T16:03:44+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Jesus Film Part 3/7</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-jesus-film-3/"/>
+        <id>https://arimulligan.github.io/publii_website/the-jesus-film-3/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/31/jfilm-03-cha.jpg" medium="image" />
+            <category term="The Jesus Film"/>
+            <category term="Series"/>
+
+        <updated>2025-08-11T16:03:40+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Jesus Film Part 2/7</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-jesus-film-2/"/>
+        <id>https://arimulligan.github.io/publii_website/the-jesus-film-2/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/30/jfilm-02-cha.jpg" medium="image" />
+            <category term="The Jesus Film"/>
+            <category term="Series"/>
+
+        <updated>2025-08-11T16:03:32+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Jesus Film Part 1/7</title>
+        <author>
+            <name>Ari</name>
+        </author>
+        <link href="https://arimulligan.github.io/publii_website/the-jesus-film/"/>
+        <id>https://arimulligan.github.io/publii_website/the-jesus-film/</id>
+        <media:content url="https://arimulligan.github.io/publii_website/media/posts/29/jfilm-01-cha.jpg" medium="image" />
+            <category term="The Jesus Film"/>
+            <category term="Series"/>
+
+        <updated>2025-08-11T16:01:41+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Story of the Prophets</title>
         <author>
@@ -34,126 +153,6 @@
             <category term="The Good News"/>
 
         <updated>2025-04-29T00:38:10+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - The Way of Peace (17/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/23/amsig-17-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T04:09:06+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - In the Village (16/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/22/amsig-16-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T04:07:11+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - At the Woodcutter&#x27;s (15/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/21/amsig-15-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T04:05:57+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - At the Hermit&#x27;s (14/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/20/amsig-14-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T04:04:20+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - At the Old Woman&#x27;s (13/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/19/amsig-13-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T04:01:59+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - At the Nomad&#x27;s (12/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/18/amsig-12-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T03:59:50+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - At the Thief&#x27;s (11/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/17/amsig-11-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T03:57:28+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Amsiggel&#x27;s Journey - At the Blacksmith&#x27;s (10/17)</title>
-        <author>
-            <name>Ari</name>
-        </author>
-        <link href="https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/"/>
-        <id>https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/</id>
-        <media:content url="https://arimulligan.github.io/publii_website/media/posts/16/amsig-10-cha_g.jpg" medium="image" />
-            <category term="The Amsiggel Story"/>
-            <category term="Series"/>
-
-        <updated>2025-04-23T03:54:30+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>

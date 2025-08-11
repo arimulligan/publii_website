@@ -10,6 +10,125 @@
     },
     "items": [
         {
+            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01/",
+            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01/",
+            "title": "The Magdalena Film - Title and Introduction (01)",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/36/magdalena_1_g.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Magdalena Film"
+            ],
+            "date_published": "2025-08-11T16:18:33+02:00",
+            "date_modified": "2025-08-11T16:21:30+02:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/the-jesus-film-7/",
+            "url": "https://arimulligan.github.io/publii_website/the-jesus-film-7/",
+            "title": "The Jesus Film Part 7/7",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/35/jfilm-07-cha.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Jesus Film",
+                   "Series"
+            ],
+            "date_published": "2025-08-11T16:03:54+02:00",
+            "date_modified": "2025-08-11T16:12:00+02:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/the-jesus-film-6/",
+            "url": "https://arimulligan.github.io/publii_website/the-jesus-film-6/",
+            "title": "The Jesus Film Part 6/7",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/34/jfilm-06-cha.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Jesus Film",
+                   "Series"
+            ],
+            "date_published": "2025-08-11T16:03:52+02:00",
+            "date_modified": "2025-08-11T16:11:04+02:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/the-jesus-film-5/",
+            "url": "https://arimulligan.github.io/publii_website/the-jesus-film-5/",
+            "title": "The Jesus Film Part 5/7",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/33/jfilm-05-cha.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Jesus Film",
+                   "Series"
+            ],
+            "date_published": "2025-08-11T16:03:46+02:00",
+            "date_modified": "2025-08-11T16:10:19+02:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/the-jesus-film-4/",
+            "url": "https://arimulligan.github.io/publii_website/the-jesus-film-4/",
+            "title": "The Jesus Film Part 4/7",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/32/jfilm-04-cha.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Jesus Film",
+                   "Series"
+            ],
+            "date_published": "2025-08-11T16:03:44+02:00",
+            "date_modified": "2025-08-11T16:08:00+02:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/the-jesus-film-3/",
+            "url": "https://arimulligan.github.io/publii_website/the-jesus-film-3/",
+            "title": "The Jesus Film Part 3/7",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/31/jfilm-03-cha.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Jesus Film",
+                   "Series"
+            ],
+            "date_published": "2025-08-11T16:03:40+02:00",
+            "date_modified": "2025-08-11T16:09:09+02:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/the-jesus-film-2/",
+            "url": "https://arimulligan.github.io/publii_website/the-jesus-film-2/",
+            "title": "The Jesus Film Part 2/7",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/30/jfilm-02-cha.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Jesus Film",
+                   "Series"
+            ],
+            "date_published": "2025-08-11T16:03:32+02:00",
+            "date_modified": "2025-08-11T16:08:10+02:00"
+        },
+        {
+            "id": "https://arimulligan.github.io/publii_website/the-jesus-film/",
+            "url": "https://arimulligan.github.io/publii_website/the-jesus-film/",
+            "title": "The Jesus Film Part 1/7",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/29/jfilm-01-cha.jpg",
+            "author": {
+                "name": "Ari"
+            },
+            "tags": [
+                   "The Jesus Film",
+                   "Series"
+            ],
+            "date_published": "2025-08-11T16:01:41+02:00",
+            "date_modified": "2025-08-11T16:09:25+02:00"
+        },
+        {
             "id": "https://arimulligan.github.io/publii_website/the-story-of-the-prophets/",
             "url": "https://arimulligan.github.io/publii_website/the-story-of-the-prophets/",
             "title": "The Story of the Prophets",
@@ -36,126 +155,6 @@
             ],
             "date_published": "2025-04-29T00:38:10+02:00",
             "date_modified": "2025-07-30T18:59:41+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-the-way-of-peace-1717/",
-            "title": "Amsiggel&#x27;s Journey - The Way of Peace (17/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/23/amsig-17-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T04:09:06+02:00",
-            "date_modified": "2025-07-30T18:47:13+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-in-the-village-1617/",
-            "title": "Amsiggel&#x27;s Journey - In the Village (16/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/22/amsig-16-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T04:07:11+02:00",
-            "date_modified": "2025-07-30T18:47:43+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-woodcutters-1517/",
-            "title": "Amsiggel&#x27;s Journey - At the Woodcutter&#x27;s (15/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/21/amsig-15-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T04:05:57+02:00",
-            "date_modified": "2025-07-30T18:48:11+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-hermits-1417/",
-            "title": "Amsiggel&#x27;s Journey - At the Hermit&#x27;s (14/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/20/amsig-14-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T04:04:20+02:00",
-            "date_modified": "2025-07-30T18:48:45+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-old-womans-1317/",
-            "title": "Amsiggel&#x27;s Journey - At the Old Woman&#x27;s (13/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/19/amsig-13-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T04:01:59+02:00",
-            "date_modified": "2025-07-30T18:49:57+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-nomads-1217/",
-            "title": "Amsiggel&#x27;s Journey - At the Nomad&#x27;s (12/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/18/amsig-12-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T03:59:50+02:00",
-            "date_modified": "2025-07-30T18:49:55+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-story-at-the-thiefs-1117/",
-            "title": "Amsiggel&#x27;s Journey - At the Thief&#x27;s (11/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/17/amsig-11-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T03:57:28+02:00",
-            "date_modified": "2025-07-30T18:50:35+02:00"
-        },
-        {
-            "id": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/",
-            "url": "https://arimulligan.github.io/publii_website/amsiggels-journey-at-the-blacksmiths-1017/",
-            "title": "Amsiggel&#x27;s Journey - At the Blacksmith&#x27;s (10/17)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/16/amsig-10-cha_g.jpg",
-            "author": {
-                "name": "Ari"
-            },
-            "tags": [
-                   "The Amsiggel Story",
-                   "Series"
-            ],
-            "date_published": "2025-04-23T03:54:30+02:00",
-            "date_modified": "2025-07-30T18:50:59+02:00"
         }
     ]
 }
