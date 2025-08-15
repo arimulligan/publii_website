@@ -1229,24 +1229,26 @@ textarea {
 .filter__item:hover, .filter__item:focus {
   border: none;
   background: none;
-  color: var(--gray-1);
+  color: var(--link-color);
+  background-color: var(--white);
   outline: none;
+  font-size: medium;
 }
 .filter__item.is-active {
-  color: var(--gray-1);
+  color: var(--link-color);
+  background-color: var(--white);
+  font-size: medium;
 }
 
 .dropbtn {
 	display: block;
   color: var(--gray-1);
-	text-decoration: none;
-	text-align: center;
+  padding-bottom: 1.5vh;
 }
-.dropbtn:hover {
-  background: var(--dark);
-  border-color: var(--dark);
-  color: var(--white);
+.dropbtn:hover .dropbtn.is-active {
+  color: var(--link-color);
   outline: none;
+  font-size: medium;
 }
 /* li.dropdown{
 	display: inline-block;
@@ -1254,11 +1256,18 @@ textarea {
 .dropdown-content{
 	display: none;
 	position: absolute;
-	/* background-color: #f9f9f9; */
 	z-index: 1;
+  padding: var(--grid-gap);
+  background-color: var(--link-color);
+  border-radius: 3px;
 }
 .dropdown-content button{
 	display: block;
+  margin-left: inherit;
+  padding: 1vh;
+  color: var(--white);
+  background-color: inherit;
+  font-size: inherit !important;
 }
 .dropdown:hover .dropdown-content{
 	display: block;
