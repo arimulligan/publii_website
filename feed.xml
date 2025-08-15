@@ -3,7 +3,7 @@
     <title>injilchaoui</title>
     <link href="https://arimulligan.github.io/publii_website/feed.xml" rel="self" />
     <link href="https://arimulligan.github.io/publii_website" />
-    <updated>2025-08-15T22:41:51+02:00</updated>
+    <updated>2025-08-15T22:47:35+02:00</updated>
     <author>
         <name>Ari</name>
     </author>
@@ -47,6 +47,7 @@
         <link href="https://arimulligan.github.io/publii_website/psalms-in-real-life-6/"/>
         <id>https://arimulligan.github.io/publii_website/psalms-in-real-life-6/</id>
         <media:content url="https://arimulligan.github.io/publii_website/media/posts/101/psa-057-cha.jpg" medium="image" />
+            <category term="Video"/>
             <category term="Series"/>
             <category term="Psalms"/>
 
