@@ -10,144 +10,153 @@
     },
     "items": [
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-10/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-10/",
-            "title": "The Magdalena Film - The Birth of Jesus (10)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/45/magdalena_10_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/the-open-bible-stories-sin-enters-the-world-002/",
+            "url": "https://arimulligan.github.io/publii_website/the-open-bible-stories-sin-enters-the-world-002/",
+            "title": "The Open Bible Stories - Sin Enters the World (002)",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/102/obs-002-cha_g-2.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "Bible Stories"
             ],
-            "date_published": "2025-08-11T16:18:55+02:00",
-            "date_modified": "2025-08-11T16:45:29+02:00"
+            "date_published": "2025-08-12T18:15:25+02:00",
+            "date_modified": "2025-08-12T18:21:21+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-9/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-9/",
-            "title": "The Magdalena Film - Joseph&#x27;s Response (09)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/44/magdalena_9_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/psalms-in-real-life-6/",
+            "url": "https://arimulligan.github.io/publii_website/psalms-in-real-life-6/",
+            "title": "Psalms in Real Life - 057",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/101/psa-057-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "Series",
+                   "Psalms"
             ],
-            "date_published": "2025-08-11T16:18:53+02:00",
-            "date_modified": "2025-08-11T16:43:47+02:00"
+            "date_published": "2025-08-12T17:58:18+02:00",
+            "date_modified": "2025-08-12T18:06:10+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-8/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-8/",
-            "title": "The Magdalena Film - Mary Goes to Elisabeth&#x27;s House (08)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/43/magdalena_8_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/psalms-in-real-life-5/",
+            "url": "https://arimulligan.github.io/publii_website/psalms-in-real-life-5/",
+            "title": "Psalms in Real Life - 056",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/100/psa-056-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "Series",
+                   "Psalms"
             ],
-            "date_published": "2025-08-11T16:18:50+02:00",
-            "date_modified": "2025-08-11T16:42:29+02:00"
+            "date_published": "2025-08-12T17:58:16+02:00",
+            "date_modified": "2025-08-12T18:05:15+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-7/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-7/",
-            "title": "The Magdalena Film - The Announcement to Mary (07)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/42/magdalena_7_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/psalms-in-real-life-4/",
+            "url": "https://arimulligan.github.io/publii_website/psalms-in-real-life-4/",
+            "title": "Psalms in Real Life - 051",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/99/psa-051-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "Series",
+                   "Psalms"
             ],
-            "date_published": "2025-08-11T16:18:48+02:00",
-            "date_modified": "2025-08-11T16:40:13+02:00"
+            "date_published": "2025-08-12T17:58:13+02:00",
+            "date_modified": "2025-08-12T18:05:19+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-6/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-6/",
-            "title": "The Magdalena Film - Isaiah (06)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/41/magdalena_6_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/psalms-in-real-life-3/",
+            "url": "https://arimulligan.github.io/publii_website/psalms-in-real-life-3/",
+            "title": "Psalms in Real Life - 023",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/98/psa-023-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "Series",
+                   "Psalms"
             ],
-            "date_published": "2025-08-11T16:18:45+02:00",
-            "date_modified": "2025-08-11T16:40:27+02:00"
+            "date_published": "2025-08-12T17:58:05+02:00",
+            "date_modified": "2025-08-12T18:02:47+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-5/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-5/",
-            "title": "The Magdalena Film - Abraham (05)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/40/magdalena_5_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/psalms-in-real-life-2/",
+            "url": "https://arimulligan.github.io/publii_website/psalms-in-real-life-2/",
+            "title": "Psalms in Real Life - 008",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/97/psa-008-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "Series",
+                   "Psalms"
             ],
-            "date_published": "2025-08-11T16:18:43+02:00",
-            "date_modified": "2025-08-11T16:41:00+02:00"
+            "date_published": "2025-08-12T17:58:03+02:00",
+            "date_modified": "2025-08-12T18:01:33+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-4/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-4/",
-            "title": "The Magdalena Film - The Temptation and Fall of the Tacawit Man (04)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/39/magdalena_4_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/psalms-in-real-life/",
+            "url": "https://arimulligan.github.io/publii_website/psalms-in-real-life/",
+            "title": "Psalms in Real Life - 001",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/96/psa-001-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "Series",
+                   "Psalms"
             ],
-            "date_published": "2025-08-11T16:18:41+02:00",
-            "date_modified": "2025-08-11T16:34:17+02:00"
+            "date_published": "2025-08-12T17:54:49+02:00",
+            "date_modified": "2025-08-12T17:57:56+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-3/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-3/",
-            "title": "The Magdalena Film - The Creation (03)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/38/magdalena_3_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/the-book-of-genesis-chapter-1-adam-10-7/",
+            "url": "https://arimulligan.github.io/publii_website/the-book-of-genesis-chapter-1-adam-10-7/",
+            "title": "The Book of Genesis - Chapter 48: Israel in Egypt",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/95/genes-48-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "The Book of Genesis",
+                   "Series"
             ],
-            "date_published": "2025-08-11T16:18:39+02:00",
-            "date_modified": "2025-08-11T16:32:37+02:00"
+            "date_published": "2025-08-12T17:34:22+02:00",
+            "date_modified": "2025-08-12T17:51:44+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-2/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01-2/",
-            "title": "The Magdalena Film - Mary Magdalene visits Rivka (02)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/37/magdalena_2_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/the-book-of-genesis-chapter-1-adam-10-6/",
+            "url": "https://arimulligan.github.io/publii_website/the-book-of-genesis-chapter-1-adam-10-6/",
+            "title": "The Book of Genesis - Chapter 44: Reconciliation",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/94/genes-44-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "The Book of Genesis",
+                   "Series"
             ],
-            "date_published": "2025-08-11T16:18:37+02:00",
-            "date_modified": "2025-08-11T16:40:34+02:00"
+            "date_published": "2025-08-12T17:34:21+02:00",
+            "date_modified": "2025-08-12T17:50:47+02:00"
         },
         {
-            "id": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01/",
-            "url": "https://arimulligan.github.io/publii_website/the-magdalena-film-title-and-introduction-01/",
-            "title": "The Magdalena Film - Title and Introduction (01)",
-            "image": "https://arimulligan.github.io/publii_website/media/posts/36/magdalena_1_g.jpg",
+            "id": "https://arimulligan.github.io/publii_website/the-book-of-genesis-chapter-1-adam-10-5/",
+            "url": "https://arimulligan.github.io/publii_website/the-book-of-genesis-chapter-1-adam-10-5/",
+            "title": "The Book of Genesis - Chapter 42: Josephs Brothers (II)",
+            "image": "https://arimulligan.github.io/publii_website/media/posts/93/genes-42-cha.jpg",
             "author": {
                 "name": "Ari"
             },
             "tags": [
-                   "The Magdalena Film"
+                   "The Book of Genesis",
+                   "Series"
             ],
-            "date_published": "2025-08-11T16:18:33+02:00",
-            "date_modified": "2025-08-11T16:40:49+02:00"
+            "date_published": "2025-08-12T17:34:19+02:00",
+            "date_modified": "2025-08-12T17:49:29+02:00"
         }
     ]
 }
