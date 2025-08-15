@@ -1236,6 +1236,34 @@ textarea {
   color: var(--gray-1);
 }
 
+.dropbtn {
+	display: block;
+  color: var(--gray-1);
+	text-decoration: none;
+	text-align: center;
+}
+.dropbtn:hover {
+  background: var(--dark);
+  border-color: var(--dark);
+  color: var(--white);
+  outline: none;
+}
+/* li.dropdown{
+	display: inline-block;
+} */
+.dropdown-content{
+	display: none;
+	position: absolute;
+	/* background-color: #f9f9f9; */
+	z-index: 1;
+}
+.dropdown-content button{
+	display: block;
+}
+.dropdown:hover .dropdown-content{
+	display: block;
+}
+
 .l-col {
   margin: calc(-1 * var(--grid-gap));
   list-style: none;
