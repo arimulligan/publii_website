@@ -1245,14 +1245,11 @@ textarea {
   color: var(--gray-1);
   padding-bottom: 1.5vh;
 }
-.dropbtn:hover .dropbtn.is-active {
+.dropbtn:hover, .dropbtn.is-active {
   color: var(--link-color);
   outline: none;
   font-size: medium;
 }
-/* li.dropdown{
-	display: inline-block;
-} */
 .dropdown-content{
 	display: none;
 	position: absolute;
