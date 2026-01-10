@@ -2331,9 +2331,9 @@ textarea {
   top: 0; left: 0; right: 0; bottom: 0;
 }
 
-.h2 #video-title {
+#video-title {
   margin: unset;
-  color: dimgrey;
+  color: lightgray;
 }
 
 .video-modal__frame {
