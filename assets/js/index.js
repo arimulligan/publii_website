@@ -5,6 +5,8 @@ document.addEventListener('DOMContentLoaded', function () {
    const transcriptFrame = document.getElementById('transcript-frame');
    const title = document.getElementById('video-title');
 
+   if (modal === null) return;
+
    if (openButtons.length !== 0) {
       openButtons.forEach(button => {
          button.addEventListener('click', function (e) {
