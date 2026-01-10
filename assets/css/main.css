@@ -2331,7 +2331,7 @@ textarea {
   top: 0; left: 0; right: 0; bottom: 0;
 }
 
-#h2.video-title {
+.h2 #video-title {
   margin: unset;
   color: dimgrey;
 }
@@ -2380,7 +2380,7 @@ textarea {
     margin-right: 45px;
 }
 
-.cta:hover span {
+.cta span {
   transform: skewX(15deg) 
 }
 
