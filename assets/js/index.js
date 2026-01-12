@@ -46,6 +46,16 @@ document.addEventListener('DOMContentLoaded', function () {
       });
    }
 
+   function transcriptVisibility() {
+      if (showTranscriptBool) {
+         transcriptFrame.style.display = "flex";
+         videoFrame.style.width = "50%";
+      } else {
+         transcriptFrame.style.display = "none";
+         videoFrame.style.width = "100%";
+      }
+   }
+
    const closeButtons = [document.getElementById('video-close'), document.getElementById('video-close-btn')];
    if (closeButtons.length !== 0) {
       closeButtons.forEach(el => {
@@ -57,13 +67,3 @@ document.addEventListener('DOMContentLoaded', function () {
       });
    }
 });
-
-function transcriptVisibility() {
-   if (showTranscriptBool) {
-      transcriptFrame.style.display = "flex";
-      videoFrame.style.width = "50%";
-   } else {
-      transcriptFrame.style.display = "none";
-      videoFrame.style.width = "100%";
-   }
-}
