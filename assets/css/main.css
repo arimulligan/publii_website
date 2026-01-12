@@ -2339,4 +2339,5 @@ textarea {
 .video-modal__frame {
   width: inherit;
   height: inherit;
+  display: flex;
 }

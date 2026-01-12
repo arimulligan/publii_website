@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
    function transcriptVisibility() {
       if (showTranscriptBool) {
          transcriptFrame.style.display = "flex";
-         videoFrame.style.width = "50%";
+         videoFrame.style.width = "80%";
       } else {
          transcriptFrame.style.display = "none";
          videoFrame.style.width = "100%";
