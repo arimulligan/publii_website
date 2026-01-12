@@ -1,9 +1,14 @@
+let showTranscriptBool = true;
+
 document.addEventListener('DOMContentLoaded', function () {
    const openButtons = document.querySelectorAll('.js-open-video');
    const modal = document.getElementById('video-modal');
    const videoFrame = document.getElementById('video-frame');
    const transcriptFrame = document.getElementById('transcript-frame');
    const title = document.getElementById('video-title');
+
+   const hideTranscriptButton = document.getElementById('transcript-showhide');
+   const exploreVids = document.getElementById('explore-vids-button');
 
    if (modal === null) return;
 
@@ -12,21 +17,29 @@ document.addEventListener('DOMContentLoaded', function () {
          button.addEventListener('click', function (e) {
             e.preventDefault();
             const videoUrl = button.getAttribute('data-video');
+
             if (!videoUrl || videoUrl == "") {
                title.textContent = "Missing video link. Try again, or contact us if issue persists."
                videoFrame.style.display = "none";
             } else {
+
                const videoTitle = button.getAttribute('data-title');
+               title.textContent = videoTitle;
+               videoFrame.src = videoUrl.replace("watch?v=", "embed/") + "?autoplay=1";
+               
                const transcript = button.getAttribute('data-transcript');
                if (!transcript || transcript == "") {
                   transcriptFrame.style.display = "none";
                } else {
-                  transcriptFrame.style.display = "flex";
-                  videoFrame.style.width = "50%";
                   transcriptFrame.src = transcript;
+                  hideTranscriptButton.disabled = false;
+                  transcriptVisibility();
+                  hideTranscriptButton.addEventListener('click', function (e) {
+                     showTranscriptBool = !showTranscriptBool;
+                     transcriptVisibility();
+                  });
                }
-               title.textContent = videoTitle;
-               videoFrame.src = videoUrl.replace("watch?v=", "embed/") + "?autoplay=1";
+               
             }
             modal.style.display = "flex";
          });
@@ -44,3 +57,13 @@ document.addEventListener('DOMContentLoaded', function () {
       });
    }
 });
+
+function transcriptVisibility() {
+   if (showTranscriptBool) {
+      transcriptFrame.style.display = "flex";
+      videoFrame.style.width = "50%";
+   } else {
+      transcriptFrame.style.display = "none";
+      videoFrame.style.width = "100%";
+   }
+}
