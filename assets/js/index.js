@@ -30,6 +30,8 @@ document.addEventListener('DOMContentLoaded', function () {
                const transcript = button.getAttribute('data-transcript');
                if (!transcript || transcript == "") {
                   transcriptFrame.style.display = "none";
+                  transcriptFrame.textContent = "Show Transcript";
+                  videoFrame.style.width = "100%";
                } else {
                   transcriptFrame.src = transcript;
                   hideTranscriptButton.disabled = false;
@@ -49,9 +51,11 @@ document.addEventListener('DOMContentLoaded', function () {
    function transcriptVisibility() {
       if (showTranscriptBool) {
          transcriptFrame.style.display = "flex";
-         videoFrame.style.width = "80%";
+         transcriptFrame.textContent = "Hide Transcript";
+         videoFrame.style.width = "70%";
       } else {
          transcriptFrame.style.display = "none";
+         transcriptFrame.textContent = "Show Transcript";
          videoFrame.style.width = "100%";
       }
    }
